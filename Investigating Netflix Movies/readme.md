@@ -23,6 +23,8 @@ The primary objectives of this analysis are:
 
 ## Visualizations
 
+![Investigating Netflix Movies](images/investigating_netflix_movies.PNG)
+
 ### Movie Genres in the 1990s
 This bar chart illustrates the distribution of movie genres during the 1990s. Action, Drama, and Comedy dominate the list.
 
