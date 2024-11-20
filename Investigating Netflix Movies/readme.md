@@ -4,7 +4,7 @@
 
 This project analyzes a dataset of Netflix movies from the 1990s to explore movie genres, durations, and other attributes. The analysis is conducted using Python libraries such as Pandas and Matplotlib, and the results are visualized with graphs.
 
-![Netflix Experience](image/redpopcorn.jpg)
+![Netflix Experience](images/redpopcorn.jpg)
 
 ## Project Overview
 
@@ -26,12 +26,12 @@ The primary objectives of this analysis are:
 ### Movie Genres in the 1990s
 This bar chart illustrates the distribution of movie genres during the 1990s. Action, Drama, and Comedy dominate the list.
 
-![Bar Chart of Genres](image/bar_chart_genres.png)
+![Bar Chart of Genres](images/bar_chart_genres.png)
 
 ### Movie Durations in the 1990s
 The histogram below represents the distribution of movie durations. The most common durations range between 90 to 120 minutes.
 
-![Movie Duration Histogram](image/scatter_plot_duration_vs_year.png)
+![Movie Duration Histogram](images/scatter_plot_duration_vs_year.png)
 
 
 ---
