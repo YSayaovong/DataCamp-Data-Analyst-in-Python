@@ -83,5 +83,5 @@ I took this course to build a solid foundation in Python programming for data sc
 
 ## Next Steps
 
-With the completion of this course, I am well-prepared to take on more advanced Python topics, such as data manipulation with libraries like Pandas and NumPy, data visualization, and eventually building data pipelines in my journey to becoming a Data Engineer.
+With the completion of this course, I am well-prepared to take on more advanced Python topics, such as data manipulation with libraries like Pandas and NumPy, data visualization, and eventually building data pipelines in my journey to becoming a Robotics Systems Analyst.
 
