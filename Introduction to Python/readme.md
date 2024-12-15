@@ -21,7 +21,7 @@ This repository contains an **Introduction to Python** tutorial, organized into 
 This section explains what Python is, its basic syntax, and why it is an excellent choice for beginners.
 
 **Image Reference:**
-![Introduction to Python](introduction_to_python.PNG)
+![Introduction to Python](images/introduction_to_python.PNG)
 
 ---
 
@@ -29,7 +29,7 @@ This section explains what Python is, its basic syntax, and why it is an excelle
 Learn about Python variables, their types, and how to declare them.
 
 **Image Reference:**
-![Variables and Types](variables_and_types.PNG)
+![Variables and Types](images/variables_and_types.PNG)
 
 ---
 
@@ -37,7 +37,7 @@ Learn about Python variables, their types, and how to declare them.
 Understand how variables are assigned in Python and the use of the assignment operator `=`.
 
 **Image Reference:**
-![Variable Assignment](variable_assignment.PNG)
+![Variable Assignment](images/variable_assignment.PNG)
 
 ---
 
@@ -48,13 +48,13 @@ Explore performing operations with variables, including numerical and string ope
 Examples of operations such as addition, subtraction, multiplication, and division.
 
 **Image Reference:**
-![Operations with Other Types 1](operations_with_other_types_1.PNG)
+![Operations with Other Types 1](images/operations_with_other_types_1.PNG)
 
 ### Part 2: String Operations
 Operations like string concatenation, repetition, and slicing.
 
 **Image Reference:**
-![Operations with Other Types 2](operations_with_other_types_2.PNG)
+![Operations with Other Types 2](images/operations_with_other_types_2.PNG)
 
 ---
 
@@ -62,7 +62,7 @@ Operations like string concatenation, repetition, and slicing.
 Introduction to data types like lists, dictionaries, and booleans.
 
 **Image Reference:**
-![Other Variable Types](other_variable_types.PNG)
+![Other Variable Types](images/other_variable_types.PNG)
 
 ---
 
@@ -70,7 +70,7 @@ Introduction to data types like lists, dictionaries, and booleans.
 Use Python as a powerful calculator to perform basic and advanced mathematical computations.
 
 **Image Reference:**
-![Python as a Calculator](python_as_a_calculator.PNG)
+![Python as a Calculator](images/python_as_a_calculator.PNG)
 
 ---
 
@@ -78,7 +78,7 @@ Use Python as a powerful calculator to perform basic and advanced mathematical c
 Write and execute your first Python program. A step-by-step guide for running Python code.
 
 **Image Reference:**
-![Your First Python Code](your_first_python_code.PNG)
+![Your First Python Code](images/your_first_python_code.PNG)
 
 ---
 
@@ -86,7 +86,7 @@ Write and execute your first Python program. A step-by-step guide for running Py
 Learn how to combine variables and perform calculations.
 
 **Image Reference:**
-![Calculations with Variables](calculations_with_variables.PNG)
+![Calculations with Variables](images/calculations_with_variables.PNG)
 
 ---
 
@@ -110,5 +110,4 @@ This tutorial provides a foundational understanding of Python programming. Feel 
 **Author**: Yengkong Sayaovong  
 **License**: MIT  
 """
-print(readme_content)
 
