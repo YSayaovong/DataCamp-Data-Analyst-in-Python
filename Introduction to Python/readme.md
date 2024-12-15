@@ -1,4 +1,3 @@
-readme_content = """
 # Python Basics: Introduction to Python
 
 This repository contains an **Introduction to Python** tutorial, organized into fundamental topics for beginners. Each section includes explanations and visual aids (images) for clarity.
